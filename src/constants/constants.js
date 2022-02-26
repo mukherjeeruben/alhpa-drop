@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Started my working with Tata Consultancy Services, Digital', },
+  { year: 2018, text: 'Worked as a cross platform application developer', },
+  { year: 2019, text: 'Started working as freelance consulatnt', },
+  { year: 2020, text: 'Created custom apps for Aerospace domain', },
+  { year: 2021, text: 'Started masters in Artificial Intelligence from Dublin City University', },
 ];
