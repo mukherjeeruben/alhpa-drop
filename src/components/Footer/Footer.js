@@ -24,9 +24,9 @@ const Footer = () => {
           <Slogan>rubenmukherjee@outlook.com</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          {/* <SocialIcons href="https://www.linkedin.com/in/rubenmukherjee/overlay/1635473908648/single-media-viewer/">
-            Check out for CV
-          </SocialIcons> */}
+          <SocialIcons href="https://raw.githubusercontent.com/mukherjeeruben/alhpa-drop/main/assets/Ruben_Mukherjee_CV.pdf">
+          Download CV
+          </SocialIcons>
           {/* <SocialIcons href="https://google.com">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
