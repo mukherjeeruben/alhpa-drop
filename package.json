@@ -1,11 +1,14 @@
 {
   "name": "portfolio_nextjs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "(if exist .next rd /s /q .next 2>nul) && next dev",
     "build": "next build && next export",
     "start": "next start -p $PORT"
+  },
+  "engines": {
+    "node": "16.14.0"
   },
   "dependencies": {
     "next": "10.2.3",
