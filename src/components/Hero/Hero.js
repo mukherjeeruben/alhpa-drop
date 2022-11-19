@@ -11,11 +11,12 @@ const Hero = (props) => (
         <SectionTitle main center>
           {/* Welcome To <br />
           My Personal Portfolio */}
-          Hello!
+          Ruben Mukherjee
         </SectionTitle>
         <SectionText>
-        This is an interface for independent front and back end application.
-        Integration in progress... 
+        Product Creator with 5 years of broad-based experience in building data-intensive applications, overcoming complex architectural and scalability issues. Proficient in
+        predictive modeling, data processing and data mining algorithms as well as in web and scripting languages such as Python. Capable of creating, developing, testing
+        and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
         </SectionText>
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>

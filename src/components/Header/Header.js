@@ -10,7 +10,8 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <DiCode size="3rem" /> <span>App Stack</span>
+          {/* <DiCode size="3rem" />  */}
+          <span>Software and Data Engineer Data Analyst</span>
         </a>
       </Link>
     </Div1>

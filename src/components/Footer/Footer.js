@@ -21,12 +21,12 @@ const Footer = () => {
       </LinkList> */}
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Open To Work</Slogan>
+          <Slogan>rubenmukherjee@outlook.com</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://www.linkedin.com/in/rubenmukherjee/overlay/1635473908648/single-media-viewer/">
+          {/* <SocialIcons href="https://www.linkedin.com/in/rubenmukherjee/overlay/1635473908648/single-media-viewer/">
             Check out for CV
-          </SocialIcons>
+          </SocialIcons> */}
           {/* <SocialIcons href="https://google.com">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
