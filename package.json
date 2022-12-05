@@ -1,8 +1,11 @@
 {
   "name": "portfolio_nextjs",
   "version": "1.0.0",
+  "homepage": "https://mukherjeeruben.github.io/react-gh-pages",
   "private": true,
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "dev": "(if exist .next rd /s /q .next 2>nul) && next dev",
     "build": "next build && next export",
     "start": "next start -p $PORT"
@@ -14,8 +17,11 @@
     "next": "10.2.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
     "styled-components": "^5.3.0",
-    "styled-normalize": "^8.0.7",
-    "react-icons": "^4.2.0"
+    "styled-normalize": "^8.0.7"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
