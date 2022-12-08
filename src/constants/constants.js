@@ -38,10 +38,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my working with Tata Consultancy Services, Digital', },
+  { year: 2017, text: 'Started my working in Tata Consultancy Services, Digital', },
   { year: 2018, text: 'Worked as a cross platform application developer - Python ,Typescript and C#', },
-  { year: 2019, text: 'Started working as freelance consulatnt on Flask, Dash and Django Microservices', },
-  { year: 2020, text: 'Created custom apps for Aerospace domain in Data Analyics with statistical models and visualization in Dash', },
-  { year: 2021, text: 'Started masters in Artificial Intelligence from Dublin City University, Ireland while working in a startup in Dublin', },
-  { year: 2022, text: 'Started work in Danalto, Dublin - IOT Startup as a Senior Software Engineer', },
+  { year: 2019, text: 'Started working as a freelance consulatnt on Dash,Flask and Django Microservices', },
+  { year: 2020, text: 'Created custom apps for Aerospace domain in Data Analyics with statistical models and visualization frameworks', },
+  { year: 2021, text: 'Started Masters in Artificial Intelligence from Dublin City University, Ireland', },
+  { year: 2022, text: 'Started working in Danalto, Dublin - IOT Startup as a Senior Software Engineer', },
 ];

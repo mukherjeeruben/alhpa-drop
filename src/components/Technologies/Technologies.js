@@ -17,7 +17,7 @@ const Technologies = () =>  (
           <DiRedis size="5rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Data Pipline</ListTitle>
+          <ListTitle>Data Pipeline</ListTitle>
           <ListParagraph>
             (ETL) <br />
             Kafka, RabbitMQ, Airflow <br />
