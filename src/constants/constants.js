@@ -44,4 +44,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Created custom apps for Aerospace domain in Data Analyics with statistical models and visualization frameworks', },
   { year: 2021, text: 'Started Masters in Artificial Intelligence from Dublin City University, Ireland', },
   { year: 2022, text: 'Started working in Danalto, Dublin - IOT Startup as a Senior Software Engineer', },
+  { year: 2023, text: 'Started working in Retail inMotion (Lufthansa Service Holding AG) - as a Data Engineer-Scientist', },
 ];

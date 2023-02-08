@@ -21,7 +21,8 @@ const Technologies = () =>  (
           <ListParagraph>
             (ETL) <br />
             Kafka, RabbitMQ, Airflow <br />
-            Distributed Databases - Amazon Dynamo Db, Influxdb
+            Amazon Redshift <br />
+            AWS DMS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -47,7 +48,11 @@ const Technologies = () =>  (
             <picture>
             <DiDatabase size="3rem" />
             </picture>
-            Database - MsSQL, MySQL <br /> 
+             MsSQL, MySQL<br /> 
+             <picture>
+            <DiDatabase size="3rem" />
+            </picture>
+             Amazon Dynamo Db, Influxdb <br /> 
             <picture>
             <DiMongodb size="3rem" />
             </picture>
