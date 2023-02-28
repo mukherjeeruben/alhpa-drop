@@ -22,7 +22,8 @@ const Technologies = () =>  (
             (ETL) <br />
             Kafka, RabbitMQ, Airflow <br />
             Amazon Redshift <br />
-            AWS DMS
+            AWS DMS <br />
+            AWS S3
           </ListParagraph>
         </ListContainer>
       </ListItem>
