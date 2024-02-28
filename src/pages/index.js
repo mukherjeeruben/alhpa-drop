@@ -15,7 +15,7 @@ const Home = () => {
       <BgAnimation />
       </Section>
       <Technologies />
-      <Projects />
+      {/* <Projects /> */}
       <Timeline />
       {/* <Acomplishments /> */}
     </Layout>

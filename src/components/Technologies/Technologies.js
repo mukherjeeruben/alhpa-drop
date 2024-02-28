@@ -1,5 +1,7 @@
 import React from 'react';
 import { DiFirebase, DiHeroku, DiAws, DiMongodb, DiGitBranch, DiGithubBadge, DiOnedrive, DiReact, DiIllustrator, DiRedis, DiAngularSimple, DiNodejs, DiDjango, DiNetmagazine, DiDatabase, DiPython } from 'react-icons/di';
+import { VscAzure } from "react-icons/vsc";
+import { GiHypodermicTest } from "react-icons/gi";
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -20,10 +22,12 @@ const Technologies = () =>  (
           <ListTitle>Data Pipeline</ListTitle>
           <ListParagraph>
             (ETL) <br />
-            Kafka, RabbitMQ, Airflow <br />
+            Airflow <br />
+            Kafka, RabbitMQ <br />
             Amazon Redshift <br />
             AWS DMS <br />
-            AWS S3
+            AWS S3 <br />
+            AWS Data Exchange
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -88,7 +92,7 @@ const Technologies = () =>  (
           <DiOnedrive size="5rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Cloud</ListTitle>
+          <ListTitle>CI-CD</ListTitle>
           <ListParagraph>
           <picture>
           <DiAws size="3rem" />
@@ -98,8 +102,10 @@ const Technologies = () =>  (
           <DiHeroku size="3rem" />
           </picture>
           Heroku <br />
-          Azure <br />
-          CICD - Pipline <br />
+          <picture>
+          <VscAzure size="3rem" />
+          </picture>
+           Azure <br />
           <picture>
           <DiGitBranch size="3rem" />
           </picture>
@@ -122,6 +128,19 @@ const Technologies = () =>  (
           BERT Model<br />
           Neural Networks (CNN, LSTM, RNN)<br />
           Search Optimization Methods
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <GiHypodermicTest size="5rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Testing and Monitoring</ListTitle>
+          <ListParagraph>
+          New-Relic <br />
+          Pyest<br />
+          Allure Reports<br />
           </ListParagraph>
         </ListContainer>
       </ListItem>

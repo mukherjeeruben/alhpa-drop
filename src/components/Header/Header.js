@@ -49,12 +49,12 @@ const Header = () =>  (
       <table>
             <tr>
               <td><SocialIcons href="https://github.com/mukherjeeruben">
-                  <AiFillGithub size="3rem" />
+                  <AiFillGithub size="2.6rem" />
                 </SocialIcons>
               </td>
               <td>
               <SocialIcons href="https://www.linkedin.com/in/rubenmukherjee/">
-                <AiFillLinkedin size="3rem" />
+                <AiFillLinkedin size="2.6rem" />
               </SocialIcons>
               </td>
             </tr>
