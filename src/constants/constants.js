@@ -46,4 +46,5 @@ export const TimeLineData = [
   { year: 2022, text: 'Danalto (IOT Startup) - Senior Software Engineer, Dublin (Ireland)', },
   { year: 2023, text: 'Retail inMotion (Lufthansa Service Holding AG) - Data Engineer/Scientist, Dublin (Ireland)', },
   { year: 2024, text: 'Consulting and Building Analytics Products', },
+  { year: 2025, text: 'Senor Data Engineer for Analytics Products', },
 ];
